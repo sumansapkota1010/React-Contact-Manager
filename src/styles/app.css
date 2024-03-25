@@ -1,0 +1,52 @@
+* {
+  font-family: "DM Sans", sans-serif;
+  font-optical-sizing: auto;
+
+  font-style: normal;
+}
+body {
+  padding: 0;
+  margin: 0;
+}
+.nav_bar {
+  background: #515aa5;
+  text-align: center;
+  padding: 30px;
+  margin: 0px;
+  font-size: 30px;
+  color: white;
+}
+input {
+  border: 0px;
+  padding: 10px;
+  margin: 2px;
+  border-radius: 10px;
+  outline: none;
+}
+button {
+  border: 0px;
+  padding: 10px;
+  margin: 2px;
+  border-radius: 10px;
+  outline: none;
+  background: #515aa5;
+  color: #fff;
+}
+
+.contact_list {
+  background: grey;
+  padding: 10px;
+  margin: 20px;
+  border-radius: 20px;
+}
+.contact {
+  background-color: wheat;
+  padding: 10px;
+  margin-left: 20px;
+}
+.contact_addder {
+  background: grey;
+  padding: 30px;
+  margin: 20px;
+  border-radius: 20px;
+}
